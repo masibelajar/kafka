@@ -1,4 +1,4 @@
-#Rama Owarianto Putra Suharjito (5027231049)
+# Rama Owarianto Putra Suharjito (5027231049)
 
 # Apache Kafka + PySpark PBL
 Simulasi pemantauan real-time kondisi gudang menggunakan Kafka dan PySpark. Data dari sensor suhu dan kelembaban dikirim secara real-time dan dianalisis untuk mendeteksi potensi bahaya terhadap barang sensitif.
