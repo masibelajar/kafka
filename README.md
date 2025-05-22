@@ -21,18 +21,6 @@ Di terminal terpisah:
 ### 4. Jalankan PySpark Consumer
 ```spark-submit consumer/pyspark_consumer.py```
 
-[Peringatan Suhu Tinggi]
-Gudang G2: Suhu 85°C
-
-[Peringatan Kelembaban Tinggi]
-Gudang G3: Kelembaban 74%
-
-[PERINGATAN KRITIS]
-Gudang G1:
-- Suhu: 84°C
-- Kelembaban: 73%
-- Status: Bahaya tinggi! Barang berisiko rusak
-
 ### Dependencies
 - Python 3
 - Apache Kafka
