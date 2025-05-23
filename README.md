@@ -6,7 +6,14 @@ Simulasi pemantauan real-time kondisi gudang menggunakan Kafka dan PySpark. Data
 ## Langkah Menjalankan
 
 ### 1. Jalankan Kafka
-Pastikan Kafka dan Zookeeper sudah berjalan.
+Pastikan Zookeeper sudah berjalan.
+```
+bash bin/zookeeper-server-start.sh config/zookeeper.properties
+```
+Pastikan Kafka sudah berjalan.
+```
+bash bin/kafka-server-start.sh config/server.properties
+```
 
 ### 2. Buat Topik Kafka
 ```
